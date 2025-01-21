@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": "houssemdellai-service-plan"
+      "value": "manuel-service-plan"
     },
     "administratorLogin": {
-      "value": "houssem"
+      "value": "manuel"
     },
     "administratorLoginPassword": {
-      "value": "@Aa123456"
+      "value": "#itadoriYuji@980"
     },
     "databaseName": {
       "value": "EmployeesDB"
     },
     "webSiteName": {
-      "value": "houssemdellai-webapp"
+      "value": "manuelem-webapp"
     },
     "sqlserverName": {
-      "value": "houssemdellai-sql"
+      "value": "manuelem-sql"
     }
   }
 }
